@@ -9,7 +9,6 @@ email varchar(max),
 dob date,
 license varchar(50),
 
-
 )
 
 --alter the table by adding or removing columns 
