@@ -1,4 +1,5 @@
 -- create table using give schema
+--using Sara database
 use Sara_db
 
 create table Employee(
